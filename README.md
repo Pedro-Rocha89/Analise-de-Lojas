@@ -1,4 +1,4 @@
-# Challenge Alura - Data Science
+# Challenge ONE Data Science - Alura
 ![image](https://github.com/user-attachments/assets/59a9b23d-4522-439e-be93-5896c641087a)
 
 # Descrição do Projeto
@@ -91,20 +91,43 @@ O projeto visa a ajudar o Senhor João a decidir qual loja da sua rede Alura Sto
   Gerar visualizações gráficas para facilitar a compreensão dos dados e a comparação entre as lojas.
   
 
-  **Métodos utilizados:**
-  
+  **Bibliotecas e métodos utilizados:**
   
   * `matplotlib.pyplot` para criação dos gráficos
-    
   * `pandas.DataFrame()` para estruturar os dados para plotagem
-    
-  * `.plot(kind='bar')` para o comparativo de faturamento entre as lojas
-    
-  * `.plot(kind='barh')` para a visualização da quantidade de produtos por categoria em cada loja, permitindo fácil comparação das categorias mais vendidas
-    
-  * `.plot(kind='bar')` para comparar a média de avaliação dos clientes entre as lojas
-    
-  * `.plot(kind='scatter')` para visualizar o custo médio do frete, destacando a relação entre as lojas e o custo.
+
+  ---
+  ### Gráfico de Análise de Faturamento
+  * **Tipo:** Gráfico de Barras (`kind='bar'`)
+  * **Objetivo:** Comparar visualmente o faturamento total entre as quatro lojas.
+ 
+  ![image](https://github.com/user-attachments/assets/6b11890e-f928-42fc-90af-e9ffa817a9cb)
+
+
+  ---
+  ### Gráfico de Análise Vendas x Categoria
+  * **Tipo:** Gráfico de Barras Horizontais (`kind='barh'`)
+  * **Objetivo:** Visualizar a quantidade de produtos vendidos por categoria em cada loja individualmente, destacando as categorias mais populares.
+ 
+  ![image](https://github.com/user-attachments/assets/a32d4e28-f1e2-4240-a77c-5e748b1aa0a2)
+
+
+  ---
+  ### Gráfico de Análise da Avaliação de Clientes
+  * **Tipo:** Gráfico de Barras (`kind='bar'`)
+  * **Objetivo:** Comparar a média das avaliações dos clientes para cada loja, indicando o nível de satisfação.
+ 
+  ![image](https://github.com/user-attachments/assets/2c19b824-bc31-4c0e-9653-3e71e6358caa)
+
+
+
+  ---
+  ### Gráfico de Análise do Custo do Frete
+  * **Tipo:** Gráfico de Dispersão (`kind='scatter'`)
+  * **Objetivo:** Ilustrar o custo médio do frete para cada loja, permitindo identificar diferenças nos custos de envio.
+ 
+  ![image](https://github.com/user-attachments/assets/3ce024b0-661f-4b53-86e9-d57748b4d5cf)
+
     
 
 # 📈 Análise e Conclusão
