@@ -145,7 +145,7 @@ Após a realização das etapas de análise e a geração dos gráficos, o proje
 # 💻 Desenvolvedores
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/201495780?s=96&v=4" width=115><br><sub>Pedro Rocha</sub>](https://github.com/Pedro-Rocha89)
 
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/7438456?s=96&v=4" width=115><br><sub>Alura Online</sub>](https://github.com/alura-cursos)
+[<img loading="lazy" src="https://www.alura.com.br/assets/img/home/alura-logo.png" width=115><br><sub>Alura</sub>](https://www.alura.com.br/)
 
 
 
