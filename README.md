@@ -135,6 +135,18 @@ O projeto visa a ajudar o Senhor João a decidir qual loja da sua rede Alura Sto
 Após a realização das etapas de análise e a geração dos gráficos, o projeto culmina em um relatório detalhado que sintetiza as descobertas. Esse relatório compara as lojas em termos de faturamento, vendas por categoria, avaliações, produtos mais/menos vendidos e frete, culminando em uma recomendação clara sobre qual loja o Senhor João deve considerar vender, com base nos dados e suas respectivas justificativas.
 
 
+# 🔨 Ferramentas e Aplicativos Utilizados
+
+- ``Python``
+- ``GoogleColab``
+- ``Trello``
+
+
+# 💻 Desenvolvedores
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/201495780?s=96&v=4" width=115><br><sub>Pedro Rocha</sub>](https://github.com/Pedro-Rocha89)
+
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/7438456?s=96&v=4" width=115><br><sub>Alura Online</sub>](https://github.com/alura-cursos)
+
 
 
 
