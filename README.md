@@ -12,7 +12,7 @@ O projeto visa a ajudar o Senhor João a decidir qual loja da sua rede Alura Sto
 
   * `.sum()` para o somatório da coluna "Preço"
 
-![image](https://github.com/user-attachments/assets/76219fa8-ecdf-4cec-9060-0ae695c469dc)
+  ![image](https://github.com/user-attachments/assets/76219fa8-ecdf-4cec-9060-0ae695c469dc)
 
 
 
@@ -32,7 +32,9 @@ O projeto visa a ajudar o Senhor João a decidir qual loja da sua rede Alura Sto
   * `.rename()` para renomear a coluna de contagem para 'Quantidade'
     
   * `.reset_index()` para transformar o agrupamento em um DataFrame limpo
-  
+
+  ![image](https://github.com/user-attachments/assets/c4fba84c-bf05-433d-8bdd-c22aca99cae2)
+
 
 - `Etapa 3`
   Determinar a média de avaliação dos clientes para cada loja. Esta métrica reflete a satisfação geral com as compras.
@@ -44,6 +46,9 @@ O projeto visa a ajudar o Senhor João a decidir qual loja da sua rede Alura Sto
   * `.mean()` para calcular a média dos valores na coluna "Avaliação da compra"
   
   * `.round(2)` para arredondar o resultado para duas casas decimais
+
+  ![image](https://github.com/user-attachments/assets/7472bc2e-2680-4bbd-8ff1-f2e6f39b2d00)
+
   
 
 - `Etapa 4`
@@ -62,7 +67,11 @@ O projeto visa a ajudar o Senhor João a decidir qual loja da sua rede Alura Sto
   * `.rename()` para nomear a coluna resultante como 'Quantidade'
     
   * `.head()` para exibir os primeiros (mais ou menos vendidos) resultados
-    
+
+  ![image](https://github.com/user-attachments/assets/a663cb56-90db-4ba7-8b65-d9983ee79d30)
+  ![image](https://github.com/user-attachments/assets/b7e757f8-2b08-46ea-87d1-72811096c975)
+
+
 
 - `Etapa 5`
   Calcular o custo médio do frete para cada loja. O frete é um fator que pode impactar a competitividade e a experiência do cliente.
@@ -74,7 +83,9 @@ O projeto visa a ajudar o Senhor João a decidir qual loja da sua rede Alura Sto
   * `.mean()` para calcular a média dos valores na coluna "Frete"
     
   * `.round(2)` para arredondar o resultado para duas casas decimais
-    
+ 
+  ![image](https://github.com/user-attachments/assets/5f3d9819-e884-4a91-bf18-7f980cd20909)
+
 
 - `Etapa 6`
   Gerar visualizações gráficas para facilitar a compreensão dos dados e a comparação entre as lojas.
